@@ -115,3 +115,6 @@ This case study demonstrates:
 * Experiment design
 * Guardrail metrics
 * Business decision-making
+
+
+https://github.com/semaernek/checkout-conversion-ab-test/blob/main/analysis/ab_test_analysis.md
